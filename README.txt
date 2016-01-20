@@ -5,6 +5,7 @@ git
 	commit -am "descripción o nombre del commit" 
 	branch 
 			nombre de la rama
-			
+	fetch
+	merge
 
 https://github.com/rickaramirez/repoaprendogit.git
