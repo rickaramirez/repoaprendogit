@@ -1,0 +1,1 @@
+Otro archivo local para hacer merge con el generado desde git
